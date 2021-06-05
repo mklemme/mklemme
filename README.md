@@ -10,6 +10,7 @@ _Full-stack developer & designer based in the San Francisco Bay Area_
 - Polyglot
   - Some ASL (American Sign Language)
   - Some Gaeilge (Irish)
+- Started building websites in 3rd grade using [#wordpress](https://github.com/topics/wordpress)
 
 ### Projects
 
