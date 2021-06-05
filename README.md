@@ -1,4 +1,4 @@
-<img align='right' src="https://user-images.githubusercontent.com/1305776/120901699-5774e180-c5f1-11eb-8990-26b79a146c39.png" width="230" />
+<img align='right' src="https://user-images.githubusercontent.com/1305776/120902028-e3d3d400-c5f2-11eb-826e-f730c8ee1c4b.png" width="230" />
 <h2>Hi, I'm Myk! 👋</h2>
 
 > Always be creating
