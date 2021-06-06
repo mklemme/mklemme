@@ -11,7 +11,7 @@ _Full-stack developer & designer based in the San Francisco Bay Area_
   - Some ASL (American Sign Language)
   - Some Gaeilge (Irish)
 - Started building websites in 3rd grade from scratch & eventually using [#wordpress](https://github.com/topics/wordpress)
-  - Learned HTML & CSS using Neopets' & MySpace user profiles
+  - Learned HTML & CSS by building custom Neopets' & MySpace user profiles
   - Installed numerous open-source libraries like PhpBB and Joomla & dug into the code to see how they worked
 - Completed a bootcamp (General Assembly) in 2014 to expand my programming skills
 - Stack of choice is [#rails](https://github.com/topics/rails), [#react](https://github.com/topics/react), [#SCSS](https://github.com/topics/scss) & [#graphql](https://github.com/topics/graphql) :heart:
