@@ -6,15 +6,15 @@
 _Full-stack developer & designer based in the San Francisco Bay Area_
 
 - He/him
-- Senior software engineer @ [docsend](https://github.com/docsend) [(We're hiring!)](https://www.docsend.com/careers/)
+- Software engineer at [@docsend](https://github.com/docsend) & [@dropbox](https://github.com/dropbox) (_[We're hiring!](https://www.dropbox.com/jobs/)_)
 - Polyglot
   - Some ASL (American Sign Language)
   - Some Gaeilge (Irish)
-- Started building websites in 3rd grade from scratch & eventually using [#wordpress](https://github.com/topics/wordpress)
+- Started building websites in 3rd grade from scratch & eventually using [#wordpress](https://github.com/topics/wordpress) to build dynamic websites
   - Learned HTML & CSS by building custom Neopets & MySpace user profiles
-  - Installed numerous open-source libraries like PhpBB and Joomla & dug into the code to see how they worked
+  - Installed numerous open-source libraries like PhpBB and Joomla to dig into the codebase to see how they worked
 - Completed a bootcamp (General Assembly) in 2014 to expand my programming skills
-- Stack of choice is [#rails](https://github.com/topics/rails), [#react](https://github.com/topics/react), [#SCSS](https://github.com/topics/scss) & [#graphql](https://github.com/topics/graphql) :heart:
+- Stack of choice is [#rails](https://github.com/topics/rails), [#nextjs](https://github.com/topics/nextjs), [#react](https://github.com/topics/react), [#SCSS](https://github.com/topics/scss) & [#graphql](https://github.com/topics/graphql) :heart:
 
 ### Projects
 
